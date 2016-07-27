@@ -1,5 +1,26 @@
 {
 	"wallpapers": [
+		{
+			"name": "Wall",
+			"author": "Odney Joseph",
+			"url": "http://i.imgur.com/nVuGC4p.png",
+			"dimensions": "2400 x 3840",
+			"copyright": "Copyright ¸ 2016 Odney Joseph. All rights reserved."
+		},	
+			{
+			"name": "Wall00",
+			"author": "Odney Joseph",
+			"url": "http://i.imgur.com/FAUDgjb.png",
+			"dimensions": "2400 x 3840",
+			"copyright": "Copyright ¸ 2016 Odney Joseph. All rights reserved."
+		},	
+			{
+			"name": "Wall01",
+			"author": "Odney Joseph",
+			"url": "http://i.imgur.com/1vYJUag.png",
+			"dimensions": "2400 x 3840",
+			"copyright": "Copyright ¸ 2016 Odney Joseph. All rights reserved."
+		},	
 			{
 			"name": "Wall02",
 			"author": "Odney Joseph",

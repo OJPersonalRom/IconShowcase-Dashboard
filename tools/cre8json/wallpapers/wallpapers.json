@@ -1,7 +1,14 @@
 {
 	"wallpapers": [
+			{
+			"name": "Wallpaper2",
+			"author": "Odney Joseph",
+			"url": "http://i.imgur.com/XRD5khG.png",
+			"dimensions": "2400 x 3840",
+			"copyright": "Copyright ¸ 2016 Odney Joseph. All rights reserved."
+		},	
 		{
-			"name": "WallBonus1",
+			"name": "Wallpaper1",
 			"author": "Odney Joseph",
 			"url": "http://i.imgur.com/Z2dxykO.png",
 			"dimensions": "2400 x 3840",
